@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7AFE5DCA2AFE5A53001FF8C8 /* xcode-cloud-test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "xcode-cloud-test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7AFE5DCA2AFE5A53001FF8C8 /* xcodetestforperfectcanteen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = xcodetestforperfectcanteen.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7AFE5DCD2AFE5A53001FF8C8 /* xcode_cloud_testApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xcode_cloud_testApp.swift; sourceTree = "<group>"; };
 		7AFE5DCF2AFE5A53001FF8C8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7AFE5DD12AFE5A55001FF8C8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 		7AFE5DCB2AFE5A53001FF8C8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7AFE5DCA2AFE5A53001FF8C8 /* xcode-cloud-test.app */,
+				7AFE5DCA2AFE5A53001FF8C8 /* xcodetestforperfectcanteen.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7AFE5DC92AFE5A53001FF8C8 /* xcode-cloud-test */ = {
+		7AFE5DC92AFE5A53001FF8C8 /* xcodetestforperfectcanteen */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7AFE5DD82AFE5A55001FF8C8 /* Build configuration list for PBXNativeTarget "xcode-cloud-test" */;
+			buildConfigurationList = 7AFE5DD82AFE5A55001FF8C8 /* Build configuration list for PBXNativeTarget "xcodetestforperfectcanteen" */;
 			buildPhases = (
 				7AFE5DC62AFE5A53001FF8C8 /* Sources */,
 				7AFE5DC72AFE5A53001FF8C8 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "xcode-cloud-test";
+			name = xcodetestforperfectcanteen;
 			productName = "xcode-cloud-test";
-			productReference = 7AFE5DCA2AFE5A53001FF8C8 /* xcode-cloud-test.app */;
+			productReference = 7AFE5DCA2AFE5A53001FF8C8 /* xcodetestforperfectcanteen.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 7AFE5DC52AFE5A53001FF8C8 /* Build configuration list for PBXProject "xcode-cloud-test" */;
+			buildConfigurationList = 7AFE5DC52AFE5A53001FF8C8 /* Build configuration list for PBXProject "xcodetestforperfectcanteen" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7AFE5DC92AFE5A53001FF8C8 /* xcode-cloud-test */,
+				7AFE5DC92AFE5A53001FF8C8 /* xcodetestforperfectcanteen */,
 			);
 		};
 /* End PBXProject section */
@@ -285,7 +285,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "cz.perfectcanteen.xcode-cloud-test";
+				PRODUCT_BUNDLE_IDENTIFIER = cz.perfectcanteen.xcodecloudtestforperfectcanteen;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -314,7 +314,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "cz.perfectcanteen.xcode-cloud-test";
+				PRODUCT_BUNDLE_IDENTIFIER = cz.perfectcanteen.xcodecloudtestforperfectcanteen;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -325,7 +325,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7AFE5DC52AFE5A53001FF8C8 /* Build configuration list for PBXProject "xcode-cloud-test" */ = {
+		7AFE5DC52AFE5A53001FF8C8 /* Build configuration list for PBXProject "xcodetestforperfectcanteen" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7AFE5DD62AFE5A55001FF8C8 /* Debug */,
@@ -334,7 +334,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7AFE5DD82AFE5A55001FF8C8 /* Build configuration list for PBXNativeTarget "xcode-cloud-test" */ = {
+		7AFE5DD82AFE5A55001FF8C8 /* Build configuration list for PBXNativeTarget "xcodetestforperfectcanteen" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7AFE5DD92AFE5A55001FF8C8 /* Debug */,
